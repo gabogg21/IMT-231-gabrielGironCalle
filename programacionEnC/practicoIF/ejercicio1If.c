@@ -9,15 +9,15 @@ int main(void){
         printf("ingrese el segundo numero\n ");
         scanf( "%d", &numberB);
         if(numberA > numberB){
-                printf("el numero mayor es %d \n", numberA);
+                printf("El numero mayor es: %d \n", numberA);
 
         }                 
         if(numberB > numberA){
-                printf("el numero mayor es %d \n", numberB);
+                printf("El numero mayor es: %d \n", numberB);
 
         }   
         if(numberA == numberB){
-                printf("ambos numeros son iguales %d \n ", numberA);
+                printf("Ambos numeros son iguales: %d \n ", numberA);
         }                
 
         
@@ -30,11 +30,7 @@ int main(void){
 
 
 
-      //  if (){
-       //         if(){
-
-                //} 
-        //} 
+      
 
 }
  

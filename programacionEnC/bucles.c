@@ -22,7 +22,7 @@ int main(void){
     }
     //otra forma
     int i
-    for(; i<=10;){
-        i++;
-    }
+    //for(; i<=10;){
+      //  i++;
+    //}
 } 
