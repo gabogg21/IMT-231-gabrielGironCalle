@@ -1,5 +1,3 @@
-// {} #
-// \*
 #include <stdio.h>
 int main(void){
         int numberA=0;
