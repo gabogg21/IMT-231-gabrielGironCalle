@@ -2,6 +2,7 @@
 int main(void){
 
     int num1 = 0;
+    
     printf("Ingrese un numero entero: \n");
     scanf("%d",&num1);
 

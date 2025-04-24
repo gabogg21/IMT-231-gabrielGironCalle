@@ -2,6 +2,7 @@
 int main(void){
 
     int edad = 0;
+    
     printf("Ingrese su edad: \n");
     scanf("%d",&edad);
 

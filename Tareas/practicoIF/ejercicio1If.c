@@ -2,6 +2,7 @@
 int main(void){
         int numberA=0;
         int numberB=0;
+        
         printf("Ingrese el primer numero\n ");
         scanf( "%d", &numberA);
         printf("ingrese el segundo numero\n ");

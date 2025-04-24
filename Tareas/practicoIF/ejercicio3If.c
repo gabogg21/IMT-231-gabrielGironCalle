@@ -2,6 +2,7 @@
 int main(void){
 
     int año = 0;
+    
     printf("Ingrese un año: \n");
     scanf("%d", &año);
 
