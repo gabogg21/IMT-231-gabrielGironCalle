@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(void){
+    
     char N[100];
     int i=0;
     int reves =0;
