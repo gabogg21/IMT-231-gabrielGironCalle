@@ -1,23 +1,20 @@
 #include <stdio.h> 
 #include "funciones.h"
-
-
 int main(void){
-
-    int a =0;
-    printf("ingrese un numero: \n");
-    
+    int a;
     while (1) {
-        if (a %2==0){
-            int resultado=par(a);
-            printf(resultado);
-
-        }else{
-            int resultado2=impar(a);
-            printf(resultado2);
-        } if (a==-1){
+        printf("ingrese un numero:");
+        scanf("%d",&a);
+        if (a==-1){
+            printf("El programa ha finalizado\n");
             break;
         }
+        if (parimpar(a)){
+            printf("\nEl numero es par\n");
+
+        }else{
+            printf("\nEl numero es impar\n");
+        } 
     }
 
 
