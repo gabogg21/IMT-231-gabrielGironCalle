@@ -6,6 +6,7 @@ int main(void){
         scanf( "%d", &numberA);
         printf("ingrese el segundo numero\n ");
         scanf( "%d", &numberB);
+        
         if(numberA > numberB){
                 printf("El numero mayor es: %d \n", numberA);
 
@@ -17,18 +18,8 @@ int main(void){
         if(numberA == numberB){
                 printf("Ambos numeros son iguales: %d \n ", numberA);
         }                
-
-        
-
         return 0;
-        
-
-
-
-
-
-
-      
+             
 
 }
  
