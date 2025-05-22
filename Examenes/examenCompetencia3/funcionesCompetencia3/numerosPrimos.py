@@ -13,5 +13,5 @@ def contarPrimos(N):
     contador = 0
     for i in range(1, N+1):
         if primo(i):
-            contador += 1
+            contador=contador +i
     print(f"Cantidad de números primos entre 1 y {N}: {contador}")

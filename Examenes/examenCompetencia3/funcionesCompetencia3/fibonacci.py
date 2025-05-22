@@ -1,8 +1,10 @@
 def reversa(N):
-    a, b = 0, 1
-    for _ in range(N):
-        print(a, end=' ')
-        a, b = b, a + b
+    a=0
+    b= 1
+    for i in range(N):
+        print(a)
+        a=b
+        b =a + b
 
 
     #if original == original[::-1]:

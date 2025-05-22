@@ -1,7 +1,7 @@
 from funcionesCompetencia3 import divisor
 from funcionesCompetencia3 import alfabeto
 from funcionesCompetencia3 import reversa
-
+from funcionesCompetencia3 import contarPrimos
 while True:
     
     print("---MENU---")
@@ -47,7 +47,7 @@ while True:
             if n1>1:
                     break
 
-        result3=serieSecuencia(n1)
+        result3=contarPrimos(n1)
         print("El resultado es:")
         print(result3)
         print("")

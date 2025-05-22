@@ -1,0 +1,16 @@
+.
+├── estructura.txt
+├── funcionesCompetencia3
+│   ├── divisores.py
+│   ├── fibonacci.py
+│   ├── __init__.py
+│   ├── numerosPrimos.py
+│   ├── __pycache__
+│   │   ├── divisores.cpython-311.pyc
+│   │   ├── fibonacci.cpython-311.pyc
+│   │   ├── __init__.cpython-311.pyc
+│   │   └── triangulo.cpython-311.pyc
+│   └── triangulo.py
+└── main.py
+
+3 directories, 11 files
