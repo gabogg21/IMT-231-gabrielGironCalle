@@ -1,4 +1,23 @@
 .
+├── build
+│   └── main
+│       ├── Analysis-00.toc
+│       ├── base_library.zip
+│       ├── EXE-00.toc
+│       ├── localpycs
+│       │   ├── pyimod01_archive.pyc
+│       │   ├── pyimod02_importers.pyc
+│       │   ├── pyimod03_ctypes.pyc
+│       │   └── struct.pyc
+│       ├── main.pkg
+│       ├── PKG-00.toc
+│       ├── PYZ-00.pyz
+│       ├── PYZ-00.toc
+│       ├── warn-main.txt
+│       └── xref-main.html
+├── dist
+│   └── main
+├── entorno.yml
 ├── estructura.txt
 ├── funcionesCompetencia3
 │   ├── divisores.py
@@ -9,8 +28,10 @@
 │   │   ├── divisores.cpython-311.pyc
 │   │   ├── fibonacci.cpython-311.pyc
 │   │   ├── __init__.cpython-311.pyc
+│   │   ├── numerosPrimos.cpython-311.pyc
 │   │   └── triangulo.cpython-311.pyc
 │   └── triangulo.py
-└── main.py
+├── main.py
+└── main.spec
 
-3 directories, 11 files
+7 directories, 28 files
